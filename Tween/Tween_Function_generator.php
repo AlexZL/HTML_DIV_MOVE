@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: alex
- * Date: 14-12-23
- * Time: 上午8:56
- */
 
     // $moving_box_num;     number of the moving DIV ,移动滑块编号
 
