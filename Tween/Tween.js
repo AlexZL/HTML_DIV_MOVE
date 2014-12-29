@@ -1,6 +1,3 @@
-/**
- * Created by alex on 14-12-21.
- */
 var Tween = {
     Linear: function(t,b,c,d){ return c*t/d + b; },
     Quad: {
